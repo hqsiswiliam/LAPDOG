@@ -20,7 +20,7 @@ The LAPDOG model code is publicly available for further exploration. [https://gi
   - contains all the model and data processing code for training/evaluating LAPDOG
 - 
 ## Checkpoint Download URL
-- Since the original trained file has been missed in the server, we have re-trained a XL size model located in the [Huggingface Download Path](https://huggingface.co/hqsiswiliam/LAPDOG-XL/resolve/main/model.pth.tar).
+- Since the original trained file has been deleted in the server, we have re-trained a XL size model located in the [Huggingface Download Path](https://huggingface.co/hqsiswiliam/LAPDOG-XL/resolve/main/model.pth.tar).
 - After the tar file has been downloaded, put this file as `ckpt/xl/ckpt/checkpoint/pth/model.pth.tar` 
 ## Environment Initialization
 - The LAPDOG's environment can be built using Anaconda (which we recommend), we provide the `env.yml` for one-step environment creation
